@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(250, 247, 247);
+    font-family: 'Baloo Tammudu 2', cursive;
+    padding: 20px; 
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+article{
+    padding-left: 50px;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+.all-content {
+    background: rgb(255, 255, 255);
+    display: flex;  
+}
+
+.sidebar {
+    background-color: rgb(128, 128, 128);
+    width: 300px;
+    line-height: 40px;
+}
+
+.photo {
+    width: 300px;
+    padding-top: 20px;   
+}
+
+.backdown {
+     margin-left: 50px;
+}
+
+.date {
+     color: rgb(128, 128, 128);
+     font-size: 80%;
+}
+
+.company {
+     color: rgb(255, 0, 0);
+}
+     
+ 
+
